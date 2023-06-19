@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\tracey\\Documents\\code\\school\\junit-4.13.2.jar",
+        "d:\\tracey\\Documents\\code\\school\\cmsc256\\bridges-java-3.4.1.jar"
+    ]
+}
